@@ -5,7 +5,7 @@ GREEN='\033[0;32m'  # Green for checkmarks (✓) and their lines
 RED='\033[0;31m'    # Red for crosses (✗) and their lines
 NC='\033[0m'        # No Color (reset to default)
 
-echo "=== NVIDIA Driver Setup Check (Basic Checks) ==="
+echo - "\n=== NVIDIA Driver Setup Check (Basic Checks) ==="
 echo "----------------------------------------"
 
 # 1. Check if graphics-drivers PPA is configured (key for NVIDIA updates)
